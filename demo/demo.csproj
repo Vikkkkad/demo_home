@@ -146,5 +146,8 @@
   <ItemGroup>
     <None Include="Resources\icons8-обновить-30.png" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="script.sql" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
